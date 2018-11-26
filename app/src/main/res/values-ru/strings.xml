@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Коснись</string>
+  <string name="str_amd_url">https://amd.spbstu.ru/</string>
+  <string name="dummy_button">To Site</string>
+  <string name="dummy_content">Print text here</string>
+  <string name="str_depth">Кафедра Прикладной Математики</string>
+  <string name="str_university1">Санкт-Петербургский Политехнический</string>
+  <string name="str_university2">университет Петра Великого</string>
+  <string name="str_toweb">На сайт</string>
+  <string name="str_start">Старт</string>
+  <string name="str_restart">Заново</string>
+  <string name="str_score">Счет</string>
+  <string name="str_moves">Ходов</string>
+  <string name="str_total">Всего</string>
+  <string name="str_combo">Комбо</string>
+  <string name="str_win">Уровень пройден</string>
+  <string name="str_gameOver">Вы проиграли</string>
+  <string name="str_continue">Нажмите на экран для продолжения </string>
+
+</resources>
